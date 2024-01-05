@@ -57,8 +57,6 @@
 <h2 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=007shashi&show_icons=true&locale=en&layout=compact" alt="007shashi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007shashi&show_icons=true&locale=en" alt="007shashi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007shashi&" alt="007shashi" /></p>
 
 <!--
